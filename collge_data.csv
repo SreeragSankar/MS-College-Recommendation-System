@@ -1,0 +1,266 @@
+﻿Sl.No,College_Name,Country,Rank,Fees,Avg Package,ROI,Australia,Canada,Germany,United Kingdom,United states
+1,Massachusetts Institute of Technology (MIT),United states,1,62000,170000,2.741935484,0,0,0,0,1
+2,Stanford University,United states,2,85000,185000,2.176470588,0,0,0,0,1
+3,Carnegie Mellon University,United states,3,60000,150000,2.5,0,0,0,0,1
+4,Harvard University,United states,7,58000,145000,2.5,0,0,0,0,1
+5,"University of California, Berkeley (UCB)",United states,8,45000,150000,3.333333333,0,0,0,0,1
+6,Princeton University,United states,13,57000,135000,2.368421053,0,0,0,0,1
+7,"University of California, Los Angeles (UCLA)",United states,16,40000,130000,3.25,0,0,0,0,1
+8,New York University (NYU),United states,17,39000,110000,2.820512821,0,0,0,0,1
+9,Cornell University,United states,18,30000,120000,4,0,0,0,0,1
+10,University of Washington,United states,19,40000,120000,3,0,0,0,0,1
+11,Yale University,United states,26,50000,120000,2.4,0,0,0,0,1
+12,Columbia University,United states,27,59000,160000,2.711864407,0,0,0,0,1
+13,University of Illinois at Urbana-Champaign,United states,34,40000,110000,2.75,0,0,0,0,1
+14,"University of California, San Diego (UCSD)",United states,37,38000,115000,3.026315789,0,0,0,0,1
+15,Georgia Institute of Technology,United states,40,24000,120000,5,0,0,0,0,1
+16,University of Michigan-Ann Arbor,United states,41,45000,125000,2.777777778,0,0,0,0,1
+17,University of Pennsylvania,United states,41,50000,140000,2.8,0,0,0,0,1
+18,University of Texas at Austin,United states,41,45000,120000,2.666666667,0,0,0,0,1
+19,University of Southern California,United states,49,61000,125000,2.049180328,0,0,0,0,1
+20,University of Chicago,United states,50,62000,130000,2.096774194,0,0,0,0,1
+21,California Institute of Technology (Caltech),United states,52,60000,160000,2.666666667,0,0,0,0,1
+22,Johns Hopkins University,United states,66,58000,125000,2.155172414,0,0,0,0,1
+23,Duke University,United states,72,60000,130000,2.166666667,0,0,0,0,1
+24,Purdue University,United states,73,40000,110000,2.75,0,0,0,0,1
+25,"University of Maryland, College Park",United states,74,40000,110000,2.75,0,0,0,0,1
+26,Pennsylvania State University,United states,102,38000,110000,2.894736842,0,0,0,0,1
+27,Boston University,United states,107,60000,115000,1.916666667,0,0,0,0,1
+28,Brown University,United states,107,65000,135000,2.076923077,0,0,0,0,1
+29,University of Wisconsin-Madison,United states,110,44000,110000,2.5,0,0,0,0,1
+30,Northwestern University,United states,118,60000,125000,2.083333333,0,0,0,0,1
+31,"University of California, Irvine",United states,122,38000,115000,3.026315789,0,0,0,0,1
+32,University of Massachusetts Amherst,United states,127,40000,110000,2.75,0,0,0,0,1
+33,Arizona State University,United states,134,30000,100000,3.333333333,0,0,0,0,1
+34,Michigan State University,United states,136,40000,100000,2.5,0,0,0,0,1
+35,Texas A&M University,United states,146,40000,110000,2.75,0,0,0,0,1
+36,Virginia Polytechnic Institute and State University,United states,149,42000,100000,2.380952381,0,0,0,0,1
+37,The Ohio State University,United states,156,39000,110000,2.820512821,0,0,0,0,1
+38,University of Florida,United states,161,30000,100000,3.333333333,0,0,0,0,1
+39,"University of North Carolina, Chapel Hill",United states,172,40000,110000,2.75,0,0,0,0,1
+40,University of Illinois at Chicago (UIC),United states,184,35000,100000,2.857142857,0,0,0,0,1
+41,Rutgers University–New Brunswick,United states,188,42000,100000,2.380952381,0,0,0,0,1
+42,Indiana University Bloomington,United states,191,40000,100000,2.5,0,0,0,0,1
+43,Northeastern University,United states,197,55000,115000,2.090909091,0,0,0,0,1
+44,North Carolina State University,United states,201-250,34000,100000,2.941176471,0,0,0,0,1
+45,Rice University,United states,201-250,54000,120000,2.222222222,0,0,0,0,1
+46,"University of California, Davis",United states,201-250,38000,115000,3.026315789,0,0,0,0,1
+47,"University of California, Santa Barbara (UCSB)",United states,201-250,38000,115000,3.026315789,0,0,0,0,1
+48,University of Minnesota Twin Cities,United states,201-250,36000,110000,3.055555556,0,0,0,0,1
+49,University of Virginia,United states,201-250,40000,115000,2.875,0,0,0,0,1
+50,University of Pittsburgh,United states,251-300,40000,100000,2.5,0,0,0,0,1
+51,University of Texas Dallas,United states,251-300,38000,105000,2.763157895,0,0,0,0,1
+52,George Washington University,United states,301-350,58000,110000,1.896551724,0,0,0,0,1
+53,Illinois Institute of Technology,United states,301-350,35000,95000,2.714285714,0,0,0,0,1
+54,The University of Arizona,United states,301-350,33000,95000,2.878787879,0,0,0,0,1
+55,University of Central Florida,United states,301-350,28000,90000,3.214285714,0,0,0,0,1
+56,University of Notre Dame,United states,301-350,60000,120000,2,0,0,0,0,1
+57,University of Rochester,United states,301-350,58000,110000,1.896551724,0,0,0,0,1
+58,University of Utah,United states,301-350,30000,95000,3.166666667,0,0,0,0,1
+59,Vanderbilt University,United states,301-350,60000,120000,2,0,0,0,0,1
+60,Georgia State University,United states,351-400,28000,85000,3.035714286,0,0,0,0,1
+61,Iowa State University,United states,351-400,29000,90000,3.103448276,0,0,0,0,1
+62,"Stony Brook University, State University of New York",United states,351-400,30000,95000,3.166666667,0,0,0,0,1
+63,University at Buffalo SUNY,United states,351-400,30000,95000,3.166666667,0,0,0,0,1
+64,University of Colorado Boulder,United states,351-400,38000,100000,2.631578947,0,0,0,0,1
+65,Washington State University,United states,351-400,30000,90000,3,0,0,0,0,1
+66,Washington University in St. Louis,United states,351-400,60000,120000,2,0,0,0,0,1
+67,Case Western Reserve University,United states,401-450,52000,105000,2.019230769,0,0,0,0,1
+68,Dartmouth College,United states,401-450,60000,130000,2.166666667,0,0,0,0,1
+69,Emory University,United states,401-450,58000,110000,1.896551724,0,0,0,0,1
+70,Florida State University,United states,401-450,28000,90000,3.214285714,0,0,0,0,1
+71,University of Houston,United states,401-450,32000,90000,2.8125,0,0,0,0,1
+72,Temple University,United states,451-500,30000,90000,3,0,0,0,0,1
+73,"University of California, Riverside",United states,451-500,38000,95000,2.5,0,0,0,0,1
+74,City University of New York,United states,501-550,25000,85000,3.4,0,0,0,0,1
+75,Florida International University,United states,501-550,28000,85000,3.035714286,0,0,0,0,1
+76,George Mason University,United states,501-550,32000,90000,2.8125,0,0,0,0,1
+77,Georgetown University,United states,501-550,60000,120000,2,0,0,0,0,1
+78,Rensselaer Polytechnic Institute,United states,501-550,57000,115000,2.01754386,0,0,0,0,1
+79,Rochester Institute of Technology (RIT),United states,501-550,52000,105000,2.019230769,0,0,0,0,1
+80,Syracuse University,United states,501-550,54000,105000,1.944444444,0,0,0,0,1
+81,"University of California, Santa Cruz",United states,501-550,38000,95000,2.5,0,0,0,0,1
+82,University of South Carolina,United states,501-550,30000,90000,3,0,0,0,0,1
+83,University of South Florida,United states,501-550,30000,90000,3,0,0,0,0,1
+84,The University of Texas at Arlington,United states,551-600,30000,90000,3,0,0,0,0,1
+85,University of Kentucky,United states,551-600,32000,90000,2.8125,0,0,0,0,1
+86,"University of Missouri, Columbia",United states,551-600,30000,90000,3,0,0,0,0,1
+87,Binghamton University SUNY,United states,601-650,30000,95000,3.166666667,0,0,0,0,1
+88,Texas Tech University,United states,601-650,28000,90000,3.214285714,0,0,0,0,1
+89,The University of Georgia,United states,601-650,32000,95000,2.96875,0,0,0,0,1
+90,University of Cincinnati,United states,601-650,30000,90000,3,0,0,0,0,1
+91,"University of Maryland, Baltimore County",United states,601-650,30000,90000,3,0,0,0,0,1
+92,College of William and Mary,United states,651-700,36000,95000,2.638888889,0,0,0,0,1
+93,Drexel University,United states,651-700,55000,105000,1.909090909,0,0,0,0,1
+94,"The University of Tennessee, Knoxville",United states,651-700,30000,90000,3,0,0,0,0,1
+95,Tufts University,United states,651-700,60000,120000,2,0,0,0,0,1
+96,University of Oregon,United states,651-700,32000,90000,2.8125,0,0,0,0,1
+97,Colorado State University,United states,701-750,32000,90000,2.8125,0,0,0,0,1
+98,Louisiana State University,United states,701-750,28000,90000,3.214285714,0,0,0,0,1
+99,New Jersey Institute of Technology (NJIT),United states,701-750,34000,95000,2.794117647,0,0,0,0,1
+100,The University of Alabama,United states,701-750,30000,90000,3,0,0,0,0,1
+101,University of Connecticut,United states,701-750,34000,95000,2.794117647,0,0,0,0,1
+102,University of Delaware,United states,701-750,34000,95000,2.794117647,0,0,0,0,1
+103,University of Hawai?i at M?noa,United states,701-750,34000,85000,2.5,0,0,0,0,1
+104,University of Miami,United states,701-750,54000,105000,1.944444444,0,0,0,0,1
+105,University of North Carolina at Charlotte,United states,701-750,30000,90000,3,0,0,0,0,1
+106,University of Oklahoma,United states,701-750,30000,90000,3,0,0,0,0,1
+107,Brigham Young University,United states,751-850,25000,90000,3.6,0,0,0,0,1
+108,Florida Atlantic University - Boca Raton,United states,751-850,27000,85000,3.148148148,0,0,0,0,1
+109,Lehigh University,United states,751-850,55000,110000,2,0,0,0,0,1
+110,Missouri University of Science and Technology,United states,751-850,30000,90000,3,0,0,0,0,1
+111,Oregon State University,United states,751-850,32000,90000,2.8125,0,0,0,0,1
+112,Stevens Institute of Technology,United states,751-850,58000,115000,1.982758621,0,0,0,0,1
+113,University of Iowa,United states,751-850,30000,90000,3,0,0,0,0,1
+114,University of Massachusetts Boston,United states,751-850,30000,90000,3,0,0,0,0,1
+115,University of Nebraska - Lincoln,United states,751-850,30000,90000,3,0,0,0,0,1
+116,University of Nevada - Las Vegas,United states,751-850,30000,85000,2.833333333,0,0,0,0,1
+117,University of Texas at San Antonio,United states,751-850,30000,90000,3,0,0,0,0,1
+118,Wayne State University,United states,751-850,28000,85000,3.035714286,0,0,0,0,1
+119,Worcester Polytechnic Institute,United states,751-850,55000,110000,2,0,0,0,0,1
+120,University of Oxford,United Kingdom,5,45000,110000,2.444444444,0,0,0,1,0
+121,University of Cambridge,United Kingdom,9,45000,110000,2.444444444,0,0,0,1,0
+122,Imperial College London,United Kingdom,22,42000,105000,2.5,0,0,0,1,0
+123,The University of Edinburgh,United Kingdom,23,35000,90000,2.571428571,0,0,0,1,0
+124,UCL,United Kingdom,24,42000,100000,2.380952381,0,0,0,1,0
+125,King's College London,United Kingdom,57,40000,95000,2.375,0,0,0,1,0
+126,The University of Manchester,United Kingdom,67,37000,90000,2.432432432,0,0,0,1,0
+127,The University of Warwick,United Kingdom,83,38000,92000,2.421052632,0,0,0,1,0
+128,Queen Mary University of London,United Kingdom,84,35000,85000,2.428571429,0,0,0,1,0
+129,The London School of Economics and Political Science (LSE),United Kingdom,126,42000,100000,2.380952381,0,0,0,1,0
+130,Lancaster University,United Kingdom,132,32000,80000,2.5,0,0,0,1,0
+131,University of Bristol,United Kingdom,134,37000,88000,2.378378378,0,0,0,1,0
+132,University of Glasgow,United Kingdom,142,34000,85000,2.5,0,0,0,1,0
+133,Newcastle University,United Kingdom,167,32000,82000,2.5625,0,0,0,1,0
+134,University of Birmingham,United Kingdom,174,35000,86000,2.457142857,0,0,0,1,0
+135,University of Surrey,United Kingdom,184,31000,80000,2.580645161,0,0,0,1,0
+136,The University of Sheffield,United Kingdom,191,35000,85000,2.428571429,0,0,0,1,0
+137,University of Nottingham,United Kingdom,191,35000,85000,2.428571429,0,0,0,1,0
+138,Oxford Brookes University,United Kingdom,201-250,28000,72000,2.571428571,0,0,0,1,0
+139,Swansea University,United Kingdom,201-250,28000,75000,2.678571429,0,0,0,1,0
+140,University of Leeds,United Kingdom,201-250,34000,85000,2.5,0,0,0,1,0
+141,University of Liverpool,United Kingdom,201-250,33000,84000,2.545454545,0,0,0,1,0
+142,University of Southampton,United Kingdom,201-250,34000,86000,2.529411765,0,0,0,1,0
+143,University of York,United Kingdom,201-250,32000,83000,2.59375,0,0,0,1,0
+144,Cardiff University,United Kingdom,251-300,31000,82000,2.64516129,0,0,0,1,0
+145,Durham University,United Kingdom,251-300,35000,90000,2.571428571,0,0,0,1,0
+146,Loughborough University,United Kingdom,251-300,32000,82000,2.5625,0,0,0,1,0
+147,Queen's University Belfast,United Kingdom,251-300,30000,80000,2.666666667,0,0,0,1,0
+148,Brunel University London,United Kingdom,351-400,30000,78000,2.6,0,0,0,1,0
+149,"City, University of London",United Kingdom,351-400,32000,80000,2.5,0,0,0,1,0
+150,Heriot-Watt University,United Kingdom,351-400,28000,75000,2.678571429,0,0,0,1,0
+151,University of Bath,United Kingdom,351-400,34000,88000,2.588235294,0,0,0,1,0
+152,University of Leicester,United Kingdom,351-400,30000,78000,2.6,0,0,0,1,0
+153,University of Strathclyde,United Kingdom,351-400,30000,80000,2.666666667,0,0,0,1,0
+154,Aston University,United Kingdom,401-450,29000,77000,2.655172414,0,0,0,1,0
+155,Cranfield University,United Kingdom,401-450,32000,83000,2.59375,0,0,0,1,0
+156,"Essex, University of",United Kingdom,401-450,28000,75000,2.678571429,0,0,0,1,0
+157,University of Kent,United Kingdom,401-450,29000,76000,2.620689655,0,0,0,1,0
+158,University of Reading,United Kingdom,401-450,30000,78000,2.6,0,0,0,1,0
+159,University of St Andrews,United Kingdom,401-450,35000,89000,2.542857143,0,0,0,1,0
+160,Royal Holloway University of London,United Kingdom,451-500,31000,79000,2.548387097,0,0,0,1,0
+161,The University of Exeter,United Kingdom,451-500,34000,87000,2.558823529,0,0,0,1,0
+162,De Montfort University,United Kingdom,501-550,28000,74000,2.642857143,0,0,0,1,0
+163,"Kingston University, London",United Kingdom,501-550,27000,72000,2.666666667,0,0,0,1,0
+164,Manchester Metropolitan University (MMU),United Kingdom,501-550,28000,74000,2.642857143,0,0,0,1,0
+165,University of Sussex,United Kingdom,501-550,30000,80000,2.666666667,0,0,0,1,0
+166,University of the West of England,United Kingdom,501-550,28000,75000,2.678571429,0,0,0,1,0
+167,Coventry University,United Kingdom,551-600,27000,72000,2.666666667,0,0,0,1,0
+168,Northumbria University at Newcastle,United Kingdom,551-600,27000,72000,2.666666667,0,0,0,1,0
+169,The Open University,United Kingdom,551-600,25000,70000,2.8,0,0,0,1,0
+170,Middlesex University,United Kingdom,601-650,26000,70000,2.692307692,0,0,0,1,0
+171,University of Bradford,United Kingdom,601-650,25000,69000,2.76,0,0,0,1,0
+172,University of Portsmouth,United Kingdom,601-650,27000,72000,2.666666667,0,0,0,1,0
+173,Edinburgh Napier University,United Kingdom,651-700,25000,69000,2.76,0,0,0,1,0
+174,Liverpool John Moores University,United Kingdom,651-700,27000,71000,2.62962963,0,0,0,1,0
+175,Ulster University,United Kingdom,651-700,25000,68000,2.72,0,0,0,1,0
+176,University of Aberdeen,United Kingdom,651-700,29000,76000,2.620689655,0,0,0,1,0
+177,University of Huddersfield,United Kingdom,651-700,25000,69000,2.76,0,0,0,1,0
+178,Nottingham Trent University,United Kingdom,701-750,27000,72000,2.666666667,0,0,0,1,0
+179,University of East Anglia (UEA),United Kingdom,751-850,29000,75000,2.586206897,0,0,0,1,0
+180,University of Lincoln,United Kingdom,751-850,26000,71000,2.730769231,0,0,0,1,0
+181,University of Salford,United Kingdom,751-850,27000,71000,2.62962963,0,0,0,1,0
+182,Technical University of Munich,Germany,35,0,70000,70000,0,0,1,0,0
+183,Ludwig-Maximilians-Universität München,Germany,89,0,68000,68000,0,0,1,0,0
+184,Technische Universität Berlin (TU Berlin),Germany,96,0,65000,65000,0,0,1,0,0
+185,"KIT, Karlsruhe Institute of Technology",Germany,110,0,65000,65000,0,0,1,0,0
+186,RWTH Aachen University,Germany,122,0,70000,70000,0,0,1,0,0
+187,Humboldt-Universität zu Berlin,Germany,136,0,60000,60000,0,0,1,0,0
+188,Ruprecht-Karls-Universität Heidelberg,Germany,165,0,62000,62000,0,0,1,0,0
+189,Technical University of Darmstadt,Germany,171,0,65000,65000,0,0,1,0,0
+190,Rheinische Friedrich-Wilhelms-Universität Bonn,Germany,197,0,62000,62000,0,0,1,0,0
+191,Freie Universitaet Berlin,Germany,201-250,0,60000,60000,0,0,1,0,0
+192,Eberhard Karls Universität Tübingen,Germany,251-300,0,60000,60000,0,0,1,0,0
+193,Technische Universität Dresden,Germany,251-300,0,58000,58000,0,0,1,0,0
+194,Universität des Saarlandes,Germany,251-300,0,55000,55000,0,0,1,0,0
+195,Albert-Ludwigs-Universitaet Freiburg,Germany,301-350,0,58000,58000,0,0,1,0,0
+196,Friedrich-Alexander-Universität Erlangen-Nürnberg,Germany,301-350,0,58000,58000,0,0,1,0,0
+197,Universität Hamburg,Germany,301-350,0,55000,55000,0,0,1,0,0
+198,Universität Stuttgart,Germany,301-350,0,60000,60000,0,0,1,0,0
+199,Goethe-University Frankfurt am Main,Germany,401-450,0,58000,58000,0,0,1,0,0
+200,Leibniz University Hannover,Germany,401-450,0,55000,55000,0,0,1,0,0
+201,TU Dortmund University,Germany,401-450,0,55000,55000,0,0,1,0,0
+202,Universität Mannheim,Germany,451-500,0,55000,55000,0,0,1,0,0
+203,University of Göttingen,Germany,451-500,0,55000,55000,0,0,1,0,0
+204,Universität Bremen,Germany,551-600,0,52000,52000,0,0,1,0,0
+205,University of Cologne,Germany,551-600,0,55000,55000,0,0,1,0,0
+206,Westfälische Wilhelms-Universität Münster,Germany,551-600,0,55000,55000,0,0,1,0,0
+207,Ruhr-Universität Bochum,Germany,601-650,0,54000,54000,0,0,1,0,0
+208,University of Kaiserslautern-Landau (RPTU),Germany,601-650,0,53000,53000,0,0,1,0,0
+209,Technische Universität Braunschweig,Germany,651-700,0,52000,52000,0,0,1,0,0
+210,Universität Leipzig,Germany,651-700,0,52000,52000,0,0,1,0,0
+211,Universität Konstanz,Germany,701-750,0,52000,52000,0,0,1,0,0
+212,University Ulm,Germany,701-750,0,52000,52000,0,0,1,0,0
+213,Christian-Albrechts-University zu Kiel,Germany,751-850,0,50000,50000,0,0,1,0,0
+214,Technische Universität Hamburg-Harburg,Germany,751-850,0,52000,52000,0,0,1,0,0
+215,Universität Duisburg-Essen,Germany,751-850,0,50000,50000,0,0,1,0,0
+216,Universität Potsdam,Germany,751-850,0,48000,48000,0,0,1,0,0
+217,University of Toronto,Canada,12,25000,110000,4.4,0,1,0,0,0
+218,University of British Columbia,Canada,31,20000,100000,5,0,1,0,0,0
+219,University of Waterloo,Canada,33,22000,105000,4.772727273,0,1,0,0,0
+220,McGill University,Canada,48,20000,100000,5,0,1,0,0,0
+221,Université de Montréal,Canada,55,15000,85000,5.666666667,0,1,0,0,0
+222,University of Alberta,Canada,105,15000,90000,6,0,1,0,0,0
+223,Queen's University at Kingston,Canada,191,18000,90000,5,0,1,0,0,0
+224,Simon Fraser University,Canada,201-250,15000,85000,5.666666667,0,1,0,0,0
+225,University of Calgary,Canada,201-250,17000,90000,5.294117647,0,1,0,0,0
+226,Carleton University,Canada,251-300,15000,85000,5.666666667,0,1,0,0,0
+227,Concordia University,Canada,251-300,15000,80000,5.333333333,0,1,0,0,0
+228,McMaster University,Canada,251-300,18000,90000,5,0,1,0,0,0
+229,University of Ottawa,Canada,251-300,16000,85000,5.3125,0,1,0,0,0
+230,Western University,Canada,251-300,18000,90000,5,0,1,0,0,0
+231,University of Victoria (UVic),Canada,301-350,14000,80000,5.714285714,0,1,0,0,0
+232,Université du Québec,Canada,401-450,13000,75000,5.769230769,0,1,0,0,0
+233,York University,Canada,401-450,16000,85000,5.3125,0,1,0,0,0
+234,Dalhousie University,Canada,451-500,14000,80000,5.714285714,0,1,0,0,0
+235,Université Laval,Canada,451-500,13000,75000,5.769230769,0,1,0,0,0
+236,University of Manitoba,Canada,501-550,14000,80000,5.714285714,0,1,0,0,0
+237,Toronto Metropolitan University,Canada,551-600,16000,85000,5.3125,0,1,0,0,0
+238,University of Saskatchewan,Canada,601-650,13000,75000,5.769230769,0,1,0,0,0
+239,University of Guelph,Canada,651-700,14000,80000,5.714285714,0,1,0,0,0
+240,University of New Brunswick,Canada,651-700,12000,75000,6.25,0,1,0,0,0
+241,Université de Sherbrooke,Canada,751-850,12000,72000,6,0,1,0,0,0
+242,The University of Sydney,Australia,36,38000,90000,2.368421053,1,0,0,0,0
+243,The Australian National University,Australia,37,37000,90000,2.432432432,1,0,0,0,0
+244,The University of Melbourne,Australia,46,40000,95000,2.375,1,0,0,0,0
+245,The University of New South Wales (UNSW Sydney),Australia,46,39000,95000,2.435897436,1,0,0,0,0
+246,Monash University,Australia,62,36000,90000,2.5,1,0,0,0,0
+247,University of Technology Sydney,Australia,62,35000,85000,2.428571429,1,0,0,0,0
+248,The University of Adelaide,Australia,94,32000,85000,2.65625,1,0,0,0,0
+249,The University of Queensland,Australia,98,38000,90000,2.368421053,1,0,0,0,0
+250,Macquarie University,Australia,156,34000,80000,2.352941176,1,0,0,0,0
+251,RMIT University,Australia,167,33000,78000,2.363636364,1,0,0,0,0
+252,Deakin University,Australia,179,32000,78000,2.4375,1,0,0,0,0
+253,Queensland University of Technology (QUT),Australia,201-250,33000,80000,2.424242424,1,0,0,0,0
+254,"The University of Newcastle, Australia (UON)",Australia,251-300,30000,75000,2.5,1,0,0,0,0
+255,The University of Western Australia,Australia,251-300,32000,80000,2.5,1,0,0,0,0
+256,University of Wollongong,Australia,251-300,30000,75000,2.5,1,0,0,0,0
+257,Griffith University,Australia,301-350,30000,75000,2.5,1,0,0,0,0
+258,Swinburne University of Technology,Australia,301-350,30000,75000,2.5,1,0,0,0,0
+259,University of South Australia,Australia,301-350,30000,75000,2.5,1,0,0,0,0
+260,La Trobe University,Australia,351-400,30000,75000,2.5,1,0,0,0,0
+261,Curtin University,Australia,401-450,30000,75000,2.5,1,0,0,0,0
+262,Western Sydney University,Australia,501-550,28000,70000,2.5,1,0,0,0,0
+263,Victoria University,Australia,601-650,28000,70000,2.5,1,0,0,0,0
+264,University of Canberra,Australia,751-850,28000,70000,2.5,1,0,0,0,0
+265,University of Southern Queensland,Australia,751-850,28000,70000,2.5,1,0,0,0,0
